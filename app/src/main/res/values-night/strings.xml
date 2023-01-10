@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HiltDemo</string>
+    <string name="no_data">No Data found.</string>
+</resources>
